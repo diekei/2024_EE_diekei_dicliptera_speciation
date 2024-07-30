@@ -1,0 +1,112 @@
+succ mik,fail mik,tot mik,rsucc mik,rfail mik,succ dic,fail dic,tot dic,rsucc dic,rfail dic,stg mik,pair,fem,mle,fam
+10,0,10,1,0,0,10,10,0,1,Larval acceptance,mm,mrace,mrace,mm1.1
+10,0,10,1,0,0,10,10,0,1,Survival to the second instar,mm,mrace,mrace,mm1.1
+9,1,10,0.9,0.1,0,10,10,0,1,Reaching adulthood,mm,mrace,mrace,mm1.1
+10,0,10,1,0,0,10,10,0,1,Larval acceptance,mm,mrace,mrace,mm3.1
+8,2,10,0.8,0.2,0,10,10,0,1,Survival to the second instar,mm,mrace,mrace,mm3.1
+7,3,10,0.7,0.3,0,10,10,0,1,Reaching adulthood,mm,mrace,mrace,mm3.1
+10,0,10,1,0,0,10,10,0,1,Larval acceptance,mm,mrace,mrace,mm4.1
+10,0,10,1,0,0,10,10,0,1,Survival to the second instar,mm,mrace,mrace,mm4.1
+9,1,10,0.9,0.1,0,10,10,0,1,Reaching adulthood,mm,mrace,mrace,mm4.1
+10,0,10,1,0,0,10,10,0,1,Larval acceptance,mm,mrace,mrace,mm6.1
+10,0,10,1,0,0,10,10,0,1,Survival to the second instar,mm,mrace,mrace,mm6.1
+10,0,10,1,0,0,10,10,0,1,Reaching adulthood,mm,mrace,mrace,mm6.1
+10,0,10,1,0,0,10,10,0,1,Larval acceptance,mm,mrace,mrace,mm7.1
+10,0,10,1,0,0,10,10,0,1,Survival to the second instar,mm,mrace,mrace,mm7.1
+7,3,10,0.7,0.3,0,10,10,0,1,Reaching adulthood,mm,mrace,mrace,mm7.1
+10,0,10,1,0,0,10,10,0,1,Larval acceptance,mm,mrace,mrace,owm1.2
+9,1,10,0.9,0.1,0,10,10,0,1,Survival to the second instar,mm,mrace,mrace,owm1.2
+9,1,10,0.9,0.1,0,10,10,0,1,Reaching adulthood,mm,mrace,mrace,owm1.2
+10,0,10,1,0,0,10,10,0,1,Larval acceptance,mm,mrace,mrace,mm8.1
+10,0,10,1,0,0,10,10,0,1,Survival to the second instar,mm,mrace,mrace,mm8.1
+10,0,10,1,0,0,10,10,0,1,Reaching adulthood,mm,mrace,mrace,mm8.1
+10,0,10,1,0,0,10,10,0,1,Larval acceptance,mm,mrace,mrace,owm2.1
+10,0,10,1,0,0,10,10,0,1,Survival to the second instar,mm,mrace,mrace,owm2.1
+9,1,10,0.9,0.1,0,10,10,0,1,Reaching adulthood,mm,mrace,mrace,owm2.1
+10,0,10,1,0,0,10,10,0,1,Larval acceptance,mm,mrace,mrace,mm5.1
+10,0,10,1,0,0,10,10,0,1,Survival to the second instar,mm,mrace,mrace,mm5.1
+9,1,10,0.9,0.1,0,10,10,0,1,Reaching adulthood,mm,mrace,mrace,mm5.1
+10,0,10,1,0,0,10,10,0,1,Larval acceptance,mm,mrace,mrace,mm10.2
+10,0,10,1,0,0,10,10,0,1,Survival to the second instar,mm,mrace,mrace,mm10.2
+10,0,10,1,0,0,10,10,0,1,Reaching adulthood,mm,mrace,mrace,mm10.2
+1,9,10,0.1,0.9,10,0,10,1,0,Larval acceptance,dd,drace,drace,dd9.1
+1,9,10,0.1,0.9,7,3,10,0.7,0.3,Survival to the second instar,dd,drace,drace,dd9.1
+0,10,10,0,1,6,4,10,0.6,0.4,Reaching adulthood,dd,drace,drace,dd9.1
+0,10,10,0,1,10,0,10,1,0,Larval acceptance,dd,drace,drace,owd1.2
+0,10,10,0,1,10,0,10,1,0,Survival to the second instar,dd,drace,drace,owd1.2
+0,10,10,0,1,9,1,10,0.9,0.1,Reaching adulthood,dd,drace,drace,owd1.2
+0,10,10,0,1,10,0,10,1,0,Larval acceptance,dd,drace,drace,dd1.2
+0,10,10,0,1,8,2,10,0.8,0.2,Survival to the second instar,dd,drace,drace,dd1.2
+0,10,10,0,1,7,3,10,0.7,0.3,Reaching adulthood,dd,drace,drace,dd1.2
+0,4,4,0,1,3,0,3,1,0,Larval acceptance,dd,drace,drace,owd1.1
+0,4,4,0,1,3,0,3,1,0,Survival to the second instar,dd,drace,drace,owd1.1
+0,4,4,0,1,2,1,3,0.666666667,0.333333333,Reaching adulthood,dd,drace,drace,owd1.1
+0,7,7,0,1,7,0,7,1,0,Larval acceptance,dd,drace,drace,owd1.3
+0,7,7,0,1,5,2,7,0.714285714,0.285714286,Survival to the second instar,dd,drace,drace,owd1.3
+0,7,7,0,1,2,5,7,0.285714286,0.714285714,Reaching adulthood,dd,drace,drace,owd1.3
+0,9,9,0,1,10,0,10,1,0,Larval acceptance,dd,drace,drace,dd2.2
+0,9,9,0,1,6,4,10,0.6,0.4,Survival to the second instar,dd,drace,drace,dd2.2
+0,9,9,0,1,6,4,10,0.6,0.4,Reaching adulthood,dd,drace,drace,dd2.2
+1,9,10,0.1,0.9,10,0,10,1,0,Larval acceptance,dd,drace,drace,dd4.2
+1,9,10,0.1,0.9,9,1,10,0.9,0.1,Survival to the second instar,dd,drace,drace,dd4.2
+0,10,10,0,1,7,3,10,0.7,0.3,Reaching adulthood,dd,drace,drace,dd4.2
+0,2,2,0,1,2,0,2,1,0,Larval acceptance,dd,drace,drace,owd2.1
+0,2,2,0,1,0,2,2,0,1,Survival to the second instar,dd,drace,drace,owd2.1
+0,2,2,0,1,0,2,2,0,1,Reaching adulthood,dd,drace,drace,owd2.1
+0,5,5,0,1,4,0,4,1,0,Larval acceptance,dd,drace,drace,pat1
+0,5,5,0,1,3,1,4,0.75,0.25,Survival to the second instar,dd,drace,drace,pat1
+0,5,5,0,1,3,1,4,0.75,0.25,Reaching adulthood,dd,drace,drace,pat1
+0,3,3,0,1,4,0,4,1,0,Larval acceptance,dd,drace,drace,pat2
+0,3,3,0,1,3,1,4,0.75,0.25,Survival to the second instar,dd,drace,drace,pat2
+0,3,3,0,1,3,1,4,0.75,0.25,Reaching adulthood,dd,drace,drace,pat2
+0,2,2,0,1,3,0,3,1,0,Larval acceptance,dd,drace,drace,dd6.2
+0,2,2,0,1,3,0,3,1,0,Survival to the second instar,dd,drace,drace,dd6.2
+0,2,2,0,1,3,0,3,1,0,Reaching adulthood,dd,drace,drace,dd6.2
+0,6,6,0,1,5,0,5,1,0,Larval acceptance,dd,drace,drace,dd1.3
+0,6,6,0,1,5,0,5,1,0,Survival to the second instar,dd,drace,drace,dd1.3
+0,6,6,0,1,3,2,5,0.6,0.4,Reaching adulthood,dd,drace,drace,dd1.3
+0,2,2,0,1,2,0,2,1,0,Larval acceptance,dd,drace,drace,dd9.2
+0,2,2,0,1,2,0,2,1,0,Survival to the second instar,dd,drace,drace,dd9.2
+0,2,2,0,1,2,0,2,1,0,Reaching adulthood,dd,drace,drace,dd9.2
+10,0,10,1,0,10,0,10,1,0,Larval acceptance,md,mrace,drace,hyb1
+5,5,10,0.5,0.5,5,5,10,0.5,0.5,Survival to the second instar,md,mrace,drace,hyb1
+5,5,10,0.5,0.5,5,5,10,0.5,0.5,Reaching adulthood,md,mrace,drace,hyb1
+8,2,10,0.8,0.2,10,0,10,1,0,Larval acceptance,md,mrace,drace,md6.1
+5,5,10,0.5,0.5,3,7,10,0.3,0.7,Survival to the second instar,md,mrace,drace,md6.1
+5,5,10,0.5,0.5,3,7,10,0.3,0.7,Reaching adulthood,md,mrace,drace,md6.1
+10,0,10,1,0,10,0,10,1,0,Larval acceptance,md,mrace,drace,md5.1
+4,6,10,0.4,0.6,8,2,10,0.8,0.2,Survival to the second instar,md,mrace,drace,md5.1
+3,7,10,0.3,0.7,8,2,10,0.8,0.2,Reaching adulthood,md,mrace,drace,md5.1
+8,2,10,0.8,0.2,9,1,10,0.9,0.1,Larval acceptance,md,mrace,drace,owd2.2
+5,5,10,0.5,0.5,6,4,10,0.6,0.4,Survival to the second instar,md,mrace,drace,owd2.2
+5,5,10,0.5,0.5,6,4,10,0.6,0.4,Reaching adulthood,md,mrace,drace,owd2.2
+10,0,10,1,0,10,0,10,1,0,Larval acceptance,md,mrace,drace,md3.1
+7,3,10,0.7,0.3,6,4,10,0.6,0.4,Survival to the second instar,md,mrace,drace,md3.1
+7,3,10,0.7,0.3,5,5,10,0.5,0.5,Reaching adulthood,md,mrace,drace,md3.1
+10,0,10,1,0,10,0,10,1,0,Larval acceptance,md,mrace,drace,hyb2
+2,8,10,0.2,0.8,5,5,10,0.5,0.5,Survival to the second instar,md,mrace,drace,hyb2
+2,8,10,0.2,0.8,3,7,10,0.3,0.7,Reaching adulthood,md,mrace,drace,hyb2
+9,1,10,0.9,0.1,10,0,10,1,0,Larval acceptance,md,mrace,drace,owd2.3
+8,2,10,0.8,0.2,10,0,10,1,0,Survival to the second instar,md,mrace,drace,owd2.3
+7,3,10,0.7,0.3,5,5,10,0.5,0.5,Reaching adulthood,md,mrace,drace,owd2.3
+3,0,3,1,0,4,0,4,1,0,Larval acceptance,md,mrace,drace,mdn1
+3,0,3,1,0,3,1,4,0.75,0.25,Survival to the second instar,md,mrace,drace,mdn1
+3,0,3,1,0,2,2,4,0.5,0.5,Reaching adulthood,md,mrace,drace,mdn1
+7,0,7,1,0,6,0,6,1,0,Larval acceptance,md,mrace,drace,mdn2
+5,2,7,0.714285714,0.285714286,0,6,6,0,1,Survival to the second instar,md,mrace,drace,mdn2
+3,4,7,0.428571429,0.571428571,0,6,6,0,1,Reaching adulthood,md,mrace,drace,mdn2
+10,0,10,1,0,10,0,10,1,0,Larval acceptance,md,mrace,drace,mdn3
+10,0,10,1,0,8,2,10,0.8,0.2,Survival to the second instar,md,mrace,drace,mdn3
+9,1,10,0.9,0.1,4,6,10,0.4,0.6,Reaching adulthood,md,mrace,drace,mdn3
+10,0,10,1,0,10,0,10,1,0,Larval acceptance,md,mrace,drace,mdn6
+9,1,10,0.9,0.1,3,7,10,0.3,0.7,Survival to the second instar,md,mrace,drace,mdn6
+9,1,10,0.9,0.1,2,8,10,0.2,0.8,Reaching adulthood,md,mrace,drace,mdn6
+2,0,2,1,0,3,0,3,1,0,Larval acceptance,dm,drace,mrace,dm7.1
+0,2,2,0,1,2,1,3,0.666666667,0.333333333,Survival to the second instar,dm,drace,mrace,dm7.1
+0,2,2,0,1,1,2,3,0.333333333,0.666666667,Reaching adulthood,dm,drace,mrace,dm7.1
+5,0,5,1,0,5,0,5,1,0,Larval acceptance,dm,drace,mrace,dmn8
+2,3,5,0.4,0.6,1,4,5,0.2,0.8,Survival to the second instar,dm,drace,mrace,dmn8
+1,4,5,0.2,0.8,1,4,5,0.2,0.8,Reaching adulthood,dm,drace,mrace,dmn8
+3,0,3,1,0,2,0,2,1,0,Larval acceptance,dm,drace,mrace,dmn9
+0,3,3,0,1,0,2,2,0,1,Survival to the second instar,dm,drace,mrace,dmn9
+0,3,3,0,1,0,2,2,0,1,Reaching adulthood,dm,drace,mrace,dmn9

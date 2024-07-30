@@ -1,0 +1,118 @@
+﻿lineage,group,group2,level,comparison,species,pair,barrier,order,notes,fst notes,references,intra,inter,strength,fst,stage
+Hdk (M x D),Hdk,M vs D,within species,pair 1,Hdk (M x D),H. diekei M-race,habitat,1,host preference (female mixed pop),mean,current study,17,0,1,0.8369,3
+Hdk (M x D),Hdk,M vs D,within species,pair 2,Hdk (M x D),H. diekei D-race,habitat,1,host preference (female mixed pop),mean,current study,32,0,1,0.8369,3
+Hdk (M x D),Hdk,M vs D,within species,pair 1,Hdk (M x D),H. diekei M-race,sexual,2,non choice mating (success),mean,current study,0.9,0.2,0.636363636,0.8369,3
+Hdk (M x D),Hdk,M vs D,within species,pair 2,Hdk (M x D),H. diekei D-race,sexual,2,non choice mating (success),mean,current study,0.6,0.4,0.2,0.8369,3
+Hdk (M x D),Hdk,M vs D,within species,pair 1,Hdk (M x D),H. diekei M-race,prehatching,3,egg hatching rate,mean,current study,0.434,0.43,0.00462963,0.8369,3
+Hdk (M x D),Hdk,M vs D,within species,pair 2,Hdk (M x D),H. diekei D-race,prehatching,3,egg hatching rate,mean,current study,0.311,0.104,0.498795181,0.8369,3
+Hdk (M x D),Hdk,M vs D,within species,pair 1,Hdk (M x D),H. diekei M-race,hybrid inviability,4,survivorship to adulthood reared on maternal host,mean,current study,0.89,0.58,0.210884354,0.8369,3
+Hdk (M x D),Hdk,M vs D,within species,pair 2,Hdk (M x D),H. diekei D-race,hybrid inviability,4,survivorship to adulthood reared on maternal host,mean,current study,0.66,0.2,0.534883721,0.8369,3
+Hdk (M x L),Hdk,M vs L,within species,pair 1,Hdk (M x L),H. diekei M-race,habitat,1,"host preference (female mixed pop, cibinong + bogor)",mean,Matsubayashi et al. 2011,86,0,1,0.3586,1
+Hdk (M x L),Hdk,M vs L,within species,pair 2,Hdk (M x L),H. diekei L-race,habitat,1,"host preference (female mixed pop, cibinong + bogor)",mean,Matsubayashi et al. 2011,68,0,1,0.3586,1
+Hdk (M x L),Hdk,M vs L,within species,pair 1,Hdk (M x L),H. diekei M-race,sexual,2,non choice mating (success),mean,Matsubayashi et al. 2011,0.63,0.74,-0.080291971,0.3586,1
+Hdk (M x L),Hdk,M vs L,within species,pair 2,Hdk (M x L),H. diekei L-race,sexual,2,non choice mating (success),mean,Matsubayashi et al. 2011,0.79,0.76,0.019354839,0.3586,1
+Hdk (M x L),Hdk,M vs L,within species,pair 1,Hdk (M x L),H. diekei M-race,prehatching,3,egg hatching rate,mean,Matsubayashi et al. 2011,0.723,0.702,0.014736842,0.3586,1
+Hdk (M x L),Hdk,M vs L,within species,pair 2,Hdk (M x L),H. diekei L-race,prehatching,3,egg hatching rate,mean,Matsubayashi et al. 2011,0.643,0.678,-0.026495079,0.3586,1
+Hdk (M x L),Hdk,M vs L,within species,pair 1,Hdk (M x L),H. diekei M-race,hybrid inviability,4,survivorship to adulthood reared on maternal host,mean,Matsubayashi et al. 2011,0.64,0.65,-0.007751938,0.3586,1
+Hdk (M x L),Hdk,M vs L,within species,pair 2,Hdk (M x L),H. diekei L-race,hybrid inviability,4,survivorship to adulthood reared on maternal host,mean,Matsubayashi et al. 2011,0.81,0.79,0.0125,0.3586,1
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 1,Hvp x Hen,H. vigintioctopunctata,habitat,1,"host preference (mixed sex on most suitable host, s. torvum, padang)",estimated,Nakano et al. 1994,6,6,0,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 2,Hvp x Hen,H. enneasticta,habitat,1,"host preference (mixed sex on most suitable host, s. torvum, padang)",estimated,Nakano et al. 1994,6,6,0,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 1,Hvp x Hse,H. vigintioctopunctata,habitat,1,"host preference (mixed sex on most suitable host, s. torvum, padang)",estimated,Nakano et al. 1994,6,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 2,Hvp x Hse,H. septima,habitat,1,"host preference (mixed sex on most suitable host, m. charantia, padang)",estimated,Nakano et al. 1994,6,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 1,Hvp x Hpl,H. vigintioctopunctata,habitat,1,"host preference (mixed sex on most suitable host, s. torvum, padang)",estimated,Nakano et al. 1994,6,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 2,Hvp x Hpl,H. pusillanima,habitat,1,"host preference (mixed sex on most suitable host, c. moschata, padang)",estimated,Nakano et al. 1994,6,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 1,Hen x Hse,H. enneasticta,habitat,1,"host preference (mixed sex on most suitable host, s. torvum, padang)",estimated,Nakano et al. 1994,6,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 2,Hen x Hse,H. septima,habitat,1,"host preference (mixed sex on most suitable host, m. charantia, padang)",estimated,Nakano et al. 1994,6,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 1,Hen x Hpl,H. enneasticta,habitat,1,"host preference (mixed sex on most suitable host, s. torvum, padang)",estimated,Nakano et al. 1994,6,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 2,Hen x Hpl,H. pusillanima,habitat,1,"host preference (mixed sex on most suitable host, c. moschata, padang)",estimated,Nakano et al. 1994,6,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 1,Hse x Hpl,H. septima,habitat,1,"host preference (mixed sex on most suitable host, m. charantia, padang)",estimated,Nakano et al. 1994,6,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 2,Hse x Hpl,H. pusillanima,habitat,1,"host preference (mixed sex on most suitable host, c. moschata, padang)",estimated,Nakano et al. 1994,6,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 1,Hvp x Hen,H. vigintioctopunctata,sexual,2,choice mating (success),estimated,Nakano et al. 1994,0.2325,0.0053,0.955424727,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 2,Hvp x Hen,H. enneasticta,sexual,2,choice mating (success),estimated,Nakano et al. 1994,0.1497,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 1,Hvp x Hse,H. vigintioctopunctata,sexual,2,choice mating (success),estimated,Nakano et al. 1994,0.2727,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 2,Hvp x Hse,H. septima,sexual,2,choice mating (success),estimated,Nakano et al. 1994,0.3555,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 1,Hvp x Hpl,H. vigintioctopunctata,sexual,2,choice mating (success),estimated,Nakano et al. 1994,0.2481,0.0048,0.962040332,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 2,Hvp x Hpl,H. pusillanima,sexual,2,choice mating (success),estimated,Nakano et al. 1994,0.149,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 1,Hen x Hse,H. enneasticta,sexual,2,choice mating (success),estimated,Nakano et al. 1994,0.1496,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 2,Hen x Hse,H. septima,sexual,2,choice mating (success),estimated,Nakano et al. 1994,0.4,0.0068,0.966568338,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 1,Hen x Hpl,H. enneasticta,sexual,2,choice mating (success),estimated,Nakano et al. 1994,0.0847,0.0435,0.321372855,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 2,Hen x Hpl,H. pusillanima,sexual,2,choice mating (success),estimated,Nakano et al. 1994,0.2609,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 1,Hse x Hpl,H. septima,sexual,2,choice mating (success),estimated,Nakano et al. 1994,0.3888,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 2,Hse x Hpl,H. pusillanima,sexual,2,choice mating (success),estimated,Nakano et al. 1994,0.1802,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 1,Hvp x Hen,H. vigintioctopunctata,prehatching,3,egg hatching rate,estimated,Nakano et al. 1994,0.708,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 2,Hvp x Hen,H. enneasticta,prehatching,3,egg hatching rate,estimated,Nakano et al. 1994,0.788,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 1,Hvp x Hse,H. vigintioctopunctata,prehatching,3,egg hatching rate,estimated,Nakano et al. 1994,0.708,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 2,Hvp x Hse,H. septima,prehatching,3,egg hatching rate,estimated,Nakano et al. 1994,0.4,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 1,Hvp x Hpl,H. vigintioctopunctata,prehatching,3,egg hatching rate,estimated,Nakano et al. 1994,0.708,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 2,Hvp x Hpl,H. pusillanima,prehatching,3,egg hatching rate,estimated,Nakano et al. 1994,0.74,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 1,Hen x Hse,H. enneasticta,prehatching,3,egg hatching rate,estimated,Nakano et al. 1994,0.788,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 2,Hen x Hse,H. septima,prehatching,3,egg hatching rate,estimated,Nakano et al. 1994,0.4,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 1,Hen x Hpl,H. enneasticta,prehatching,3,egg hatching rate,estimated,Nakano et al. 1994,0.788,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 2,Hen x Hpl,H. pusillanima,prehatching,3,egg hatching rate,estimated,Nakano et al. 1994,0.74,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 1,Hse x Hpl,H. septima,prehatching,3,egg hatching rate,estimated,Nakano et al. 1994,0.4,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 2,Hse x Hpl,H. pusillanima,prehatching,3,egg hatching rate,estimated,Nakano et al. 1994,0.74,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 1,Hvp x Hen,H. vigintioctopunctata,hybrid inviability,4,survivorship to adulthood reared on maternal host,estimated,NA,NA,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 2,Hvp x Hen,H. enneasticta,hybrid inviability,4,survivorship to adulthood reared on maternal host,estimated,NA,NA,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 1,Hvp x Hse,H. vigintioctopunctata,hybrid inviability,4,survivorship to adulthood reared on maternal host,estimated,NA,NA,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 2,Hvp x Hse,H. septima,hybrid inviability,4,survivorship to adulthood reared on maternal host,estimated,NA,NA,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 1,Hvp x Hpl,H. vigintioctopunctata,hybrid inviability,4,survivorship to adulthood reared on maternal host,estimated,NA,NA,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 2,Hvp x Hpl,H. pusillanima,hybrid inviability,4,survivorship to adulthood reared on maternal host,estimated,NA,NA,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 1,Hen x Hse,H. enneasticta,hybrid inviability,4,survivorship to adulthood reared on maternal host,estimated,NA,NA,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 2,Hen x Hse,H. septima,hybrid inviability,4,survivorship to adulthood reared on maternal host,estimated,NA,NA,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 1,Hen x Hpl,H. enneasticta,hybrid inviability,4,survivorship to adulthood reared on maternal host,estimated,NA,NA,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 2,Hen x Hpl,H. pusillanima,hybrid inviability,4,survivorship to adulthood reared on maternal host,estimated,NA,NA,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 1,Hse x Hpl,H. septima,hybrid inviability,4,survivorship to adulthood reared on maternal host,estimated,NA,NA,0,1,1,5
+Hvp x Hen x Hse x Hpl,Other,H. spp,between species,pair 2,Hse x Hpl,H. pusillanima,hybrid inviability,4,survivorship to adulthood reared on maternal host,estimated,NA,NA,0,1,1,5
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 1,Hvm x Hpt,H. vigintioctomaculata,seasonal,1,observation on S. bryoniaefolius,estimated,Matsubayashi et al. 2009; Sobel and Chen 2014,NA,NA,0.04895,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 2,Hvm x Hpt,H. pustulosa,seasonal,1,observation on C. kamtschaticum,estimated,Matsubayashi et al. 2009; Sobel and Chen 2014,NA,NA,0.01195,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 1,Hvm x Hpt,H. vigintioctomaculata,habitat,2,host preference (from Toyoura),estimated,Matsubayashi et al. 2009; Sobel and Chen 2014,NA,NA,0.72948,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 2,Hvm x Hpt,H. pustulosa,habitat,2,host preference (from Toyoura),estimated,Matsubayashi et al. 2009; Sobel and Chen 2014,NA,NA,0.78181,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 1,Hvm x Hpt,H. vigintioctomaculata,sexual,3,choice mating (success),estimated,Matsubayashi et al. 2009; Matsubayashi and Katakura 2007; Sobel and Chen 2014,0.425,0.125,0.54545,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 2,Hvm x Hpt,H. pustulosa,sexual,3,choice mating (success),estimated,Matsubayashi et al. 2009; Matsubayashi and Katakura 2007; Sobel and Chen 2014,0.325,0.05,0.73333,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 1,Hvm x Hpt,H. vigintioctomaculata,prehatching,4,egg hatching rate,estimated,Matsubayashi et al. 2009; Sobel and Chen 2014,NA,NA,0.52525,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 2,Hvm x Hpt,H. pustulosa,prehatching,4,egg hatching rate,estimated,Matsubayashi et al. 2009; Sobel and Chen 2014,NA,NA,0.96812,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 1,Hvm x Hpt,H. vigintioctomaculata,csp,5,conspecific sperm precedence,estimated,Matsubayashi et al. 2009; Sobel and Chen 2014,NA,NA,0.98358,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 2,Hvm x Hpt,H. pustulosa,csp,5,conspecific sperm precedence,estimated,Matsubayashi et al. 2009; Sobel and Chen 2014,NA,NA,0.99334,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 1,Hvm x Hpt,H. vigintioctomaculata,hybrid inviability,6,survivorship to adulthood reared on maternal host,estimated,Matsubayashi et al. 2009; Sobel and Chen 2014,NA,NA,0.0233,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 2,Hvm x Hpt,H. pustulosa,hybrid inviability,6,survivorship to adulthood reared on maternal host,estimated,Matsubayashi et al. 2009; Sobel and Chen 2014,NA,NA,-0.09494,0.98,4
+Hni x Hya x Hpu,Hvm,within A,between species,pair 1,Hni x Hya,H. niponica,habitat,1,host preference (mixed sex on th or bc from Ohnuma),mean,Katakura et al. 1989; Matsubayashi et al. 2017,20,0,1,0.5334,2
+Hni x Hya x Hpu,Hvm,within A,between species,pair 2,Hni x Hya,H. yasutomii,habitat,1,host preference (mixed sex on th or bc from Ohnuma),mean,Katakura et al. 1989; Matsubayashi et al. 2017,17,0,1,0.5334,2
+Hni x Hya x Hpu,Hvm,within A,between species,pair 1,Hni x Hya,H. niponica,sexual,2,choice mating (success),mean,Katakura et al. 1989; Matsubayashi et al. 2017,0.35,0.3,0.076923077,0.5334,2
+Hni x Hya x Hpu,Hvm,within A,between species,pair 2,Hni x Hya,H. yasutomii,sexual,2,choice mating (success),mean,Katakura et al. 1989; Matsubayashi et al. 2017,0.4,0.6,-0.2,0.5334,2
+Hni x Hya x Hpu,Hvm,within A,between species,pair 1,Hni x Hya,H. niponica,prehatching,3,egg hatching rate,mean,Katakura et al. 1989; Matsubayashi et al. 2017,0.681,0.463,0.190559441,0.5334,2
+Hni x Hya x Hpu,Hvm,within A,between species,pair 2,Hni x Hya,H. yasutomii,prehatching,3,egg hatching rate,mean,Katakura et al. 1989; Matsubayashi et al. 2017,0.52,0.628,-0.094076655,0.5334,2
+Hni x Hya x Hpu,Hvm,within A,between species,pair 1,Hni x Hya,H. niponica,hybrid inviability,4,survivorship to adulthood reared on maternal host,mean,Katakura and Hosogai 1994; Matsubayashi et al. 2017,0.762,0.682,0.055401662,0.5334,2
+Hni x Hya x Hpu,Hvm,within A,between species,pair 2,Hni x Hya,H. yasutomii,hybrid inviability,4,survivorship to adulthood reared on maternal host,mean,Katakura and Hosogai 1994; Matsubayashi et al. 2017,0.582,0.459,0.11815562,0.5334,2
+Hni x Hya x Hpu,Hvm,within A,between species,pair 1,Hni x Hya,H. niponica,hybrid inviability,NA,"survivorship to adulthood reared on maternal host, thistle",mean,Kuwajima et al. 2010,0.663,0.082,0.779865772,0.5334,2
+Hni x Hya x Hpu,Hvm,within A,between species,pair 2,Hni x Hya,H. yasutomii,hybrid inviability,NA,"survivorship to adulthood reared on maternal host, blue cohosh",mean,Kuwajima et al. 2010,0.921,0.841,0.045402951,0.5334,2
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 1,Hvm x Hpt,H. vigintioctomaculata,prehatching,NA,egg hatching rate,estimated,Katakura 1997,0.716,0.04,0.894179894,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 2,Hvm x Hpt,H. pustulosa,prehatching,NA,egg hatching rate,estimated,Katakura 1997,0.742,0.04,0.89769821,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 1,Hvm x Hpt,H. vigintioctomaculata,prehatching,NA,egg hatching rate,estimated,Katakura 1997,0.509,0.053,0.8113879,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 2,Hvm x Hpt,H. pustulosa,prehatching,NA,egg hatching rate,estimated,Katakura 1997,0.6,0.06,0.818181818,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 1,Hvm x Hpt,H. vigintioctomaculata,prehatching,NA,egg hatching rate,estimated,Katakura 1997,0.823,0.243,0.544090056,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 2,Hvm x Hpt,H. pustulosa,prehatching,NA,egg hatching rate,estimated,Katakura 1997,0.667,0.013,0.961764706,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 1,Hvm x Hni,H. vigintioctomaculata,prehatching,NA,egg hatching rate,estimated,Katakura 1997,0.626,0.075,0.786019971,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 2,Hvm x Hni,H. niponica,prehatching,NA,egg hatching rate,estimated,Katakura 1997,0.258,0.019,0.862815884,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 1,Hvm x Hya,H. vigintioctomaculata,prehatching,NA,egg hatching rate,estimated,Katakura 1997,0.626,0.045,0.865871833,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 2,Hvm x Hya,H. yasutomii,prehatching,NA,egg hatching rate,estimated,Katakura 1997,0.408,0.021,0.902097902,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,NA,Hvm x Hya,H. vigintioctomaculata,prehatching,NA,egg hatching rate,estimated,Katakura 1997,0.824,0.131,0.72565445,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 1,Hvm x Hya,H. vigintioctomaculata,prehatching,NA,egg hatching rate,estimated,Katakura 1997,0.814,0.224,0.568400771,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 2,Hvm x Hya,H. yasutomii,prehatching,NA,egg hatching rate,estimated,Katakura 1997,0.654,0.017,0.949329359,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 1,Hvm x Hya,H. vigintioctomaculata,prehatching,NA,egg hatching rate,estimated,Katakura 1997,0.702,0.018,0.95,0.98,4
+Hvm x Hpt x Hni x Hya,Hvm,A vs B,between species,pair 2,Hvm x Hya,H. yasutomii,prehatching,NA,egg hatching rate,estimated,Katakura 1997,0.553,0.026,0.910189983,0.98,4
+Hni x Hya x Hpu,Hvm,within A,between species,pair 1,Hni x Hpu,H. niponica,prehatching,NA,egg hatching rate,mean,Katakura 1981,0.341,0.304,0.057364341,0.5682,2
+Hni x Hya x Hpu,Hvm,within A,between species,pair 2,Hni x Hpu,H. pustulosa,prehatching,NA,egg hatching rate,mean,Katakura 1981,0.655,0.651,0.003062787,0.5682,2
+Hni x Hya x Hpu,Hvm,within A,between species,pair 1,Hni x Hya,H. niponica,prehatching,NA,egg hatching rate,mean,Katakura 1981,0.341,0.341,0,0.5334,2
+Hni x Hya x Hpu,Hvm,within A,between species,pair 2,Hni x Hya,H. yasutomii,prehatching,NA,egg hatching rate,mean,Katakura 1981,0.773,0.346,0.381590706,0.5334,2
+Hni x Hya x Hpu,Hvm,within A,between species,pair 1,Hpu x Hya,H. pustulosa,prehatching,NA,egg hatching rate,mean,Katakura 1981,0.655,0.578,0.062449311,0.5677,2
+Hni x Hya x Hpu,Hvm,within A,between species,pair 2,Hpu x Hya,H. yasutomii,prehatching,NA,egg hatching rate,mean,Katakura 1981,0.773,0.72,0.035498995,0.5677,2
+Hni x Hya x Hpu,Hvm,within A,between species,pair 1,Hni x Hpu,H. niponica,hybrid inviability,NA,survivorship to adulthood reared on maternal host,mean,Katakura 1981,0.485,0.282,0.264667536,0.5682,2
+Hni x Hya x Hpu,Hvm,within A,between species,pair 2,Hni x Hpu,H. pustulosa,hybrid inviability,NA,survivorship to adulthood reared on maternal host,mean,Katakura 1981,0.672,0.65,0.016641452,0.5682,2
+Hni x Hya x Hpu,Hvm,within A,between species,pair 1,Hni x Hya,H. niponica,hybrid inviability,NA,survivorship to adulthood reared on maternal host,mean,Katakura 1981,0.485,0.324,0.199011125,0.5334,2
+Hni x Hya x Hpu,Hvm,within A,between species,pair 2,Hni x Hya,H. yasutomii,hybrid inviability,NA,survivorship to adulthood reared on maternal host,mean,Katakura 1981,0.304,0.183,0.248459959,0.5334,2
+Hni x Hya x Hpu,Hvm,within A,between species,pair 1,Hpu x Hya,H. pustulosa,hybrid inviability,NA,survivorship to adulthood reared on maternal host,mean,Katakura 1981,0.672,0.481,0.165654814,0.5677,2
+Hni x Hya x Hpu,Hvm,within A,between species,pair 2,Hpu x Hya,H. yasutomii,hybrid inviability,NA,survivorship to adulthood reared on maternal host,mean,Katakura 1981,0.304,0.451,-0.194701987,0.5677,2
+NA,NA,NA,NA,NA,NA,NA,habitat,NA,NA,NA,NA,NA,NA,0,0,0
+NA,NA,NA,NA,NA,NA,NA,sexual,NA,NA,NA,NA,NA,NA,0,0,0
+NA,NA,NA,NA,NA,NA,NA,prehatching,NA,NA,NA,NA,NA,NA,0,0,0
+NA,NA,NA,NA,NA,NA,NA,hybrid inviability,NA,NA,NA,NA,NA,NA,0,0,0

@@ -1,0 +1,13 @@
+att,natt,pra,rep,succ,fail,prs,fem,mle,pair,rep
+10,0,1.000,10,9,1,0.900,mrace,mrace,mm,ncm1
+3,4,0.429,7,3,4,0.429,drace,drace,dd,ncm1
+7,3,0.700,10,4,6,0.400,mrace,drace,md,ncm1
+7,3,0.700,10,7,3,0.700,drace,mrace,dm,ncm1
+9,1,0.900,10,9,1,0.900,mrace,mrace,mm,ncm2
+6,4,0.600,10,6,4,0.600,drace,drace,dd,ncm2
+3,7,0.300,10,0,10,0.000,mrace,drace,md,ncm2
+3,7,0.300,10,2,8,0.200,drace,mrace,dm,ncm2
+10,3,0.769,13,9,4,0.692,drace,drace,dd,ncm3
+3,7,0.300,10,3,7,0.300,drace,mrace,dm,ncm3
+6,4,0.600,10,6,4,0.600,drace,drace,dd,ncm4
+4,6,0.400,10,4,6,0.400,drace,mrace,dm,ncm4
