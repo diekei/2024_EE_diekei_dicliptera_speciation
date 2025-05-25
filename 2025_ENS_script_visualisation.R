@@ -1,6 +1,6 @@
 ### INTRODUCTION #####
 
-# Welcome. For the description of the project please visit: https://github.com/diekei/2024_EE_diekei_dicliptera_speciation
+# Welcome. For the description of the project please visit: https://github.com/diekei/2025_ENS_diekei_dicliptera_speciation
 # Article is available at: 
 
 
